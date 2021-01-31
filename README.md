@@ -8,4 +8,6 @@
 
 ## Домашнее задание
 
-Используя LaTeX, изобразить основные распределения и теоремы 
+Иллюстрация основных распределений случайных величин в LaTeX с использованием пакета *tikz
+
+[Ссылка на pdf-file с изображенными распределениями](https://github.com/myupeshkov/Probability_and_statistics/blob/main/distributions_illustration/Illustrations_tex.pdf)
